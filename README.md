@@ -1,3 +1,4 @@
+#PowerBI- Project
 Insights\
 1."France" leads in profitability, while the "United States of America" leads in total sales.\
 2."Canada" is consistently strong in both profit and sales, making it a significant contributor overall.\
