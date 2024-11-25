@@ -1,4 +1,5 @@
-#PowerBI- Project\
+# Financial Dataset Analysis Using Power BI
+This project involves analyzing a Financial Dataset to derive meaningful insights, visualize key metrics, and showcase proficiency in using Power BI for data analytics and reporting. The goal is to create an interactive and aesthetically pleasing dashboard that can assist stakeholders in making informed decisions.
 Insights\
 1."France" leads in profitability, while the "United States of America" leads in total sales.\
 2."Canada" is consistently strong in both profit and sales, making it a significant contributor overall.\
